@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yashi87vaish@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iDNUg1cJ0m5A_U_kFlZ9oqo1tnEPNFfz/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ekxNgUylbBk6apDm4Rh27M0l1_Z6ni5R/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaish_yashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaish_yashi" height="30" width="40" /></a>
