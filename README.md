@@ -8,12 +8,13 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ekxNgUylbBk6apDm4Rh27M0l1_Z6ni5R/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaish_yashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaish_yashi" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/yashivaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashi-vaish-275512190" height="30" width="40" /></a>
 <a href="https://instagram.com/ya.shi8.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya.shi8.26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yashu_822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yashu_822" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashivaish87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashivaish87" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashivaish87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashivaish87" height="30" width="40" /></a>
+<a href="https://twitter.com/vaish_yashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaish_yashi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
