@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- Checkout my [Portfolio](https://yashivaish87.github.io/portfolio/)
+- 👨‍💻 Checkout my [Portfolio](https://yashivaish87.github.io/portfolio/)
 
 - 📫 How to reach me **yashi87vaish@gmail.com**
 
