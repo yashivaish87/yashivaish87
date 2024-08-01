@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yashi87vaish@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1ekxNgUylbBk6apDm4Rh27M0l1_Z6ni5R/view?usp=drive_link](https://drive.google.com/file/d/1w0-HryIJ6nXcHtAK-5g4xS5HPMeRM-PJ/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w0-HryIJ6nXcHtAK-5g4xS5HPMeRM-PJ/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
